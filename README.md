@@ -7,6 +7,7 @@ Por eso, sesiones cortas e intensas resultan mas eficientes.
 **Dataset: https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset**
 
 **Regresion polinomica**
+
 ![image](https://github.com/user-attachments/assets/468c5232-efba-4577-9f42-619cb5b04659)
 
 ![image](https://github.com/user-attachments/assets/6da8f9b9-096e-4955-bb71-a2c784f73de2)
