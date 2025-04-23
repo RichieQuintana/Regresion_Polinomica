@@ -1,7 +1,7 @@
 **Conclusion:**
 
-En conclusion, segun el grafico polinomica, el gasto de calorias durante el ejercicio no
-es constante: al inicio es alto y con el tiempo disminuye debido al cansancio y fatiga del deportista.
+En conclusion, el gasto de calorias durante el ejercicio no es constante: 
+al inicio es alto y con el tiempo disminuye debido al cansancio y fatiga del deportista.
 Por eso, sesiones cortas e intensas resultan mas eficientes.
 
 **Dataset: https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset**
